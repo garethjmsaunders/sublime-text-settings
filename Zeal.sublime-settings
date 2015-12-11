@@ -1,0 +1,38 @@
+{
+  /**
+   *  Zeal executable path.
+   *  For Linux: /usr/bin/zeal
+   *  For Windows x32: c:\\Program Files\\Zeal\\zeal.exe
+   *  For Windows x64: c:\\Program Files (x86)\\Zeal\\zeal.exe
+   */
+  "zeal_command": "c:\\Program Files (x86)\\Zeal\\zeal.exe",
+
+  /**
+   *  Sort maaping results.
+   */
+  "mapping_sort" : true,
+
+  /**
+   * Language mapping.
+   */
+  "language_mapping": {
+    "HTML": {"lang": "html", "zeal_lang": "html"},
+
+    "JavaScript": {"lang": "javascript", "zeal_lang": "javascript"},
+      "Grunt": {"lang": "javascript", "zeal_lang": "grunt"},
+      "jQuery": {"lang": "javascript", "zeal_lang": "jquery"},
+      "jQuery Mobile": {"lang": "javascript", "zeal_lang": "jquery_mobile"},
+      "jQuery UI": {"lang": "javascript", "zeal_lang": "jquery_ui"},
+      "Node.js": {"lang": "javascript", "zeal_lang": "node.js"},
+
+    "CSS": {"lang": "css", "zeal_lang": "css"},
+      "Bootstrap 3": {"lang": "css", "zeal_lang": "bootstrap_3"},
+      "Compass": {"lang": "css", "zeal_lang": "compass"},
+      "Sass": {"lang": "css", "zeal_lang": "sass"},
+
+    "PHP": {"lang": "php", "zeal_lang": "php"},
+    "WordPress": {"lang": "php", "zeal_lang": "wordpress"},
+
+    "Python": {"lang": "python", "zeal_lang": "python"}
+  }
+}

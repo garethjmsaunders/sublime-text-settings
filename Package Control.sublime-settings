@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Color Converter",
+		"CSScomb",
+		"DevDocs",
+		"Emmet",
+		"GitGutter",
+		"GitSavvy",
+		"Handlebars",
+		"jQuery",
+		"JSHint Gutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Package Control",
+		"Placeholders",
+		"Sass",
+		"Search WordPress Codex or QueryPosts",
+		"SideBarEnhancements",
+		"Status Bar File Size",
+		"SyncedSideBar",
+		"Tag",
+		"Theme - Minimal",
+		"TodoReview",
+		"Tomorrow Color Schemes",
+		"View In Browser",
+		"WordPress",
+		"WordPress Developer Resources",
+		"WordPress Generate Salts",
+		"Zeal"
+	]
+}
